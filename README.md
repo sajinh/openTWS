@@ -1,4 +1,4 @@
-# A low-power, low-cost integrated weather logger suitable
+## A low-power, low-cost integrated weather logger suitable
 developed as part of a research project on micro-scale
 weather processes.
 
