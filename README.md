@@ -13,3 +13,10 @@ for sleep. The schematic is available in the doc folder.
 Version 2 will include a single band GNSS reciever for
 GNSS based water-vapor measurements and possibly a 2.4GHz radio 
 for networking.
+
+### The GNSS based water-vapour logger
+
+This is being developed. Documentation during this development stage can be found at
+http://climdyn.u-aizu.ac.jp/redmine/projects/low-cost-gnss-applications/wiki  and
+http://climdyn.u-aizu.ac.jp/redmine/projects/opentws/wiki  The latter wiki page also hosts the
+hardware design schematic
